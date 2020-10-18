@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "app to track employeesand relevant information",
+  "main": "server.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.2.5",
+    "node": "^14.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TPino92/employee-tracker.git"
+  },
+  "author": "Trevor Pino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TPino92/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/TPino92/employee-tracker#readme"
+}
